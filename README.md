@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/58581608/151120190-b38e41b6-2112-4b56-be3e-ab73dcfdf237.png" height="400px" width="300px"></p>
 
-## Table Of Content
+## Table Of Contents
 + [About](#About)
 + [Swift문법](#Swift문법)
 + [Swift코드](#Swift코드)
