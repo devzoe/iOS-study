@@ -6,8 +6,8 @@
 
 ## Table Of Content
 + [About](#About)
-+ [Swift 문법](#Swift 문법)
-+ [Swift 코드](#Swift 코드)
++ [Swift문법](#Swift 문법)
++ [Swift코드](#Swift 코드)
 
 
 ## About
@@ -18,8 +18,8 @@
 + Swift 공식 문서 - The Swift Programming Language
 + 야곰 스위프트 교재 - 스위프트 프로그래밍: Swift 5
 
-## Swift 문법
+## Swift문법
 [📄정리노트]
 
-## Swift 코드
+## Swift코드
 [📄정리노트]
