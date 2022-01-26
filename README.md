@@ -6,8 +6,8 @@
 
 ## Table Of Content
 + [About](#About)
-+ [Swift문법](#Swift 문법)
-+ [Swift코드](#Swift 코드)
++ [Swift문법](#Swift문법)
++ [Swift코드](#Swift코드)
 
 
 ## About
