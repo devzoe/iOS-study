@@ -6,12 +6,17 @@
 
 ## Table Of Contents
 + [About](#About)
+  - [Repository Rule](#RepositoryRule)
 + [Swift문법](#Swift문법)
 + [Swift코드](#Swift코드)
 
 
 ## About
 🌟 iOS 개발을 위한 기초 공부에 대한 기록물을 저장하는 공간입니다. Swift 문법 공부와 코드 리뷰를 진행합니다. 
+### Repository Rule
+> iOS-study Repo 가이드
++ Commit convention rule : [대주제] 소주제 분류(이론정리/구현/...) ex) [Swift] 함수 정리
+
 
 ### Collaborator
 ### Reference
