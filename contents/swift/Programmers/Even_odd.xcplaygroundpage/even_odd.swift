@@ -9,7 +9,6 @@ func solution(_ num:Int) -> String {
 
 func solution2(_ num:Int) -> String {
     let result : String = (num % 2 == 0) ? "Even" : "Odd"
-
     return result
 }
 
