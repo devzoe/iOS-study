@@ -26,6 +26,9 @@
 <a href="https://github.com/juri123123">
   <img src="https://github.com/juri123123.png" width="100">
 </a>
+<a href="https://github.com/devjayyy">
+  <img src="https://github.com/devjayyy.png" width="100">
+</a>
 </p>
 
 ### 3️⃣ Reference
