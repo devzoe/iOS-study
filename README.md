@@ -19,6 +19,14 @@
 
 
 ### 2️⃣ Collaborator
+<p>
+<a href="https://github.com/parkjeeyoung">
+  <img src="https://github.com/parkjeeyoung.png" width="100">
+</a>
+<a href="https://github.com/juri123123">
+  <img src="https://github.com/juri123123.png" width="100">
+</a>
+</p>
 ### 3️⃣ Reference
 + Swift 공식 문서 - The Swift Programming Language
 + 야곰 스위프트 교재 - 스위프트 프로그래밍: Swift 5
