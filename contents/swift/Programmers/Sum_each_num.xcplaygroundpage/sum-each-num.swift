@@ -1,5 +1,3 @@
-import Foundation
-
 func solution(_ n:Int) -> Int
 {
     let arr = String(n).map{Int(String($0))!}
