@@ -26,8 +26,8 @@
 <a href="https://github.com/juri123123">
   <img src="https://github.com/juri123123.png" width="100">
 </a>
-<a href="https://github.com/devjayyy">
-  <img src="https://github.com/devjayyy.png" width="100">
+<a href="https://github.com/devzoe">
+  <img src="https://github.com/devzoe.png" width="100">
 </a>
 </p>
 
