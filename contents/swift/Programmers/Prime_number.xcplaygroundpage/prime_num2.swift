@@ -1,7 +1,6 @@
 import Foundation
 
 func solution(_ n:Int) -> Int {
-    //나뉘어지는 숫자의 루트까지만 나누어 확인해봄
     var cnt = 0
     
     for i in 2...n {
