@@ -36,7 +36,7 @@
 + 야곰 스위프트 교재 - 스위프트 프로그래밍: Swift 5
 
 ## ✅ Swift문법
-[📄정리노트](https://github.com/devjayyy/iOS-study/tree/main/contents/swift/The_Swift_Programming_Language)
+[📄정리노트](https://github.com/devzoe/iOS-study/tree/main/contents/swift/The_Swift_Programming_Language)
 
 ## ✅ Swift코드
-[📄정리노트](https://github.com/devjayyy/iOS-study/tree/main/contents/swift/Programmers)
+[📄정리노트](https://github.com/devzoe/iOS-study/tree/main/contents/swift/Programmers)
