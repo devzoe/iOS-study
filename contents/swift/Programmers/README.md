@@ -1,7 +1,7 @@
 
 # Programmers 알고리즘 풀이
 
-<p align="center"><img src="https://user-images.githubusercontent.com/58581608/151120190-b38e41b6-2112-4b56-be3e-ab73dcfdf237.png" height="400px" width="300px"></p>
+<p align="left"><img src="https://programmers.co.kr/assets/bi-programmers-light-0d164d49b51a123bab5cca11106145d6fac5a5ac04b8646780369c2a5bc0dd79.png" height="100px" width="500px"></p>
 
 ## ✅ Table Of Contents
 + [About](#About)
@@ -23,7 +23,7 @@
 + [문자열 다루기](https://github.com/devzoe/iOS-study/tree/main/contents/swift/Programmers/문자열다루기)
 + [자연수 뒤집어 배열로 만들기](https://github.com/devzoe/iOS-study/tree/main/contents/swift/Programmers/자연수뒤집어배열로만들기)
 + [소수 찾기](https://github.com/devzoe/iOS-study/tree/main/contents/swift/Programmers/소수찾기)
-+ [문자열 내 P와 Y의 개수](https://github.com/devzoe/iOS-study/tree/main/contents/swift/Programmers/문자열내P와Y의 개수)
++ [문자열 내 P와 Y의 개수](https://github.com/devzoe/iOS-study/tree/main/contents/swift/Programmers/문자열내P와Y의개수)
 + [숫자 문자열과 영단어](https://github.com/devzoe/iOS-study/tree/main/contents/swift/Programmers/숫자문자열과영단어)
 + [두 정수 사이의 합](https://github.com/devzoe/iOS-study/tree/main/contents/swift/Programmers/두정수사이의합)
 + [자릿수 더하기](https://github.com/devzoe/iOS-study/tree/main/contents/swift/Programmers/자릿수더하기)
