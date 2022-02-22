@@ -1,11 +1,31 @@
-func solution(_ s:String) -> String {
-    var c = s.count
-    if c % 2 == 0 {
-        var sIdx = s.index(s.startIndex, offsetBy: c/2-1)
-        var eIdx = s.index(s.startIndex, offsetBy: c/2)
-        return String(s[sIdx...eIdx])
+func solution(_ s:String, _ n:Int) -> String {
+    var str = Array(s)
+    var answer = ""
+    let alpha = Array("abcdefghijklmnopqrstuvwxyz")
+    let upAlpha = Array("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+    
+    for i in str {
+        if i == " " {
+            answer += " "
+        }
+        if alpha.contains(i){
+            var idx = alpha.firstIndex(of: i)! + n
+            if idx > 25{
+                answer.append(alpha[idx-26])
+            }
+            else{
+                answer.append(alpha[idx])
+            }
+        }
+        else if upAlpha.contains(i) {
+            var idx = upAlpha.firstIndex(of: i)! + n
+            if idx > 25{
+                answer.append(upAlpha[idx-26])
+            }
+            else{
+                answer.append(upAlpha[idx])
+            }
+        }
     }
-    else {
-        return String(s[s.index(s.startIndex, offsetBy: c/2)])
-    }
+    return answer
 }
