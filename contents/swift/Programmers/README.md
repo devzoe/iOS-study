@@ -39,4 +39,10 @@
 + [핸드폰번호 가리기](https://github.com/devzoe/iOS-study/tree/main/contents/swift/Programmers/핸드폰번호가리기)
 + [나머지가 1이 되는 수 찾기](https://github.com/devzoe/iOS-study/tree/main/contents/swift/Programmers/나머지가1이되는수찾기)
 + [내적](https://github.com/devzoe/iOS-study/tree/main/contents/swift/Programmers/내적)
++ [하샤드 수](https://github.com/devzoe/iOS-study/tree/main/contents/swift/Programmers/하샤드수)
++ [신고 결과 받기](https://github.com/devzoe/iOS-study/tree/main/contents/swift/Programmers/신고결과받기)
++ [가운데 글자 가져오기](https://github.com/devzoe/iOS-study/tree/main/contents/swift/Programmers/가운데글자가져오기)
++ [시저 암호](https://github.com/devzoe/iOS-study/tree/main/contents/swift/Programmers/시저암호)
++ [실패율](https://github.com/devzoe/iOS-study/tree/main/contents/swift/Programmers/실패율)
++ [행렬의 덧셈](https://github.com/devzoe/iOS-study/tree/main/contents/swift/Programmers/행렬의덧셈)
 
