@@ -18,7 +18,6 @@
 + [기본](https://github.com/devzoe/iOS-study/tree/main/contents/swift/The_Swift_Programming_Language/The_Basics)
 + [데이터 타입](https://github.com/devzoe/iOS-study/tree/main/contents/swift/The_Swift_Programming_Language/Data_Types)
 + [기본 연산자](https://github.com/devzoe/iOS-study/tree/main/contents/swift/The_Swift_Programming_Language/Basic_Operators)
-+ [연산자2](https://github.com/devzoe/iOS-study/tree/main/contents/swift/The_Swift_Programming_Language/Advanced_Operators)
 + [제어문](https://github.com/devzoe/iOS-study/tree/main/contents/swift/The_Swift_Programming_Language/Control_Flow)
 + [함수](https://github.com/devzoe/iOS-study/tree/main/contents/swift/The_Swift_Programming_Language/Functions)
 + [클로저](https://github.com/devzoe/iOS-study/tree/main/contents/swift/The_Swift_Programming_Language/Closures)
@@ -31,3 +30,4 @@
 + [제네릭](https://github.com/devzoe/iOS-study/tree/main/contents/swift/The_Swift_Programming_Language/Generics)
 + [불투명 타입](https://github.com/devzoe/iOS-study/tree/main/contents/swift/The_Swift_Programming_Language/Opaque_Types)
 + [자동 참조 카운팅](https://github.com/devzoe/iOS-study/tree/main/contents/swift/The_Swift_Programming_Language/ARC)
++ [고급 ](https://github.com/devzoe/iOS-study/tree/main/contents/swift/The_Swift_Programming_Language/Advanced_Operators)
